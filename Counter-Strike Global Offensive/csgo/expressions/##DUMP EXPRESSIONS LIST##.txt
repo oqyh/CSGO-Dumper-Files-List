@@ -1,0 +1,6 @@
+expressions/phonemes_weak.txt
+expressions/random.txt
+expressions/randomalert.txt
+expressions/expressions.txt
+expressions/phonemes.txt
+expressions/phonemes_strong.txt
