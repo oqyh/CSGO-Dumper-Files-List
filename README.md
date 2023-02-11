@@ -1,6 +1,6 @@
 # [CSGO] Dumper Files List
 
-### Path List Files From Counter-Strike Global Offensive
+### Path List Files From Counter-Strike Global Offensive By Gold KingZ
 
 
 ## .:[ Change Log ]:.
