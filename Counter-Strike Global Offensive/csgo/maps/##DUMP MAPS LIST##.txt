@@ -1,0 +1,2 @@
+maps/dz_blacksite_spawnmask.png
+maps/dz_sirocco_spawnmask.png
